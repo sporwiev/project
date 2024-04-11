@@ -1,0 +1,123 @@
+/*Сайт с главной страницей*/
+#wrap_meddle {
+	width:auto;
+	height:5em;
+	background:black;
+	margin:0px;
+}
+.header_meddle {
+	margin:0px;
+}
+.color_text {
+	display:block;
+	width:auto;
+	margin:0px;
+    color:white;	
+	font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.wrap_meddle_two {
+	width:auto;
+	height:8em;
+	background:black;
+	font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+	margin:0px;
+	margin-top:-70px;
+	color:white;
+	font-size:50px;
+
+}
+svg {
+    display:block;
+    font: 5em 'ПРОГРАММИРОВАНИЕ';
+    width: 100%;
+    height: 253px;
+    margin: 0px auto;
+}
+
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1){
+stroke: red;
+    animation-delay: 1;
+}
+
+.text-copy:nth-child(2){
+    stroke: #ffc300;
+    animation-delay: -2s;
+}
+
+.text-copy:nth-child(3){
+    stroke: #44ff00;
+    animation-delay: -3s;
+}
+
+.text-copy:nth-child(4){
+    stroke: #fd6d94;
+    animation-delay: -4s;
+}
+
+.text-copy:nth-child(5){
+    stroke: #00ffbf;
+    animation-delay: -5s;
+}
+
+@keyframes stroke-offset {
+	100% {stroke-dashoffset: -35%;}
+}
+.wrap_meddle_three {
+	width:auto;
+	height:53em;
+	background:#FF8C00;
+	font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+	margin:0px;
+}
+#header_wrap_meddle_three {
+    width: 15em;
+    transform: translate(4em, 5em);
+    font-size: 3em;
+    margin: 0px;
+    color: black;
+    font-family: 'Comfortaa', cursive;
+}
+#content_wrap_meddle_three {
+    width: 33em;
+    transform: translate(6em, 10em);
+    font-size: 30px;
+    margin: 0px;
+    color: black;
+}
+.wrap_meddle_four {
+    width:auto;
+	height:53em;
+	background:#27ff007d;
+	font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+	margin:0px;
+}
+.wrap_meddle_five {
+    width:auto;
+	height:53em;
+	background:#efff00ad;
+	font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+	margin:0px;
+}
+.c {
+margi:0px;	
+}
+/*Конец главной страницы*/
+
+
+
+
+

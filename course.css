@@ -1,0 +1,151 @@
+/*главная страница*/
+.wrap_content {
+	background:#AFEEEE;
+	width:auto;
+	height:100em;
+}
+/*главная страница*/
+/*блок курса HTML*/
+.html_block {
+    background: #70d45e;
+    width: 30em;
+    height: 30em;
+    border-radius: 20px;
+    transform: translate(2.5em, 10em);
+}
+.html_block_header {
+transform: translate(100px, 2em);
+    color: white;
+    font-size: 80px;
+    font-family: 'Comfortaa', cursive;
+}
+.html_block_content {
+    transform: translate(-50px, 8em);
+    width: 19em;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+.html_content_bottom {
+    transform: translate(0em, 15em);
+    color: white;
+    font-size: 24px;
+    font-family: 'Comfortaa', cursive;
+    width: 20em;
+    height: 3em;
+    background: #70d45e;
+    border-radius: 50px;
+}
+.html_bottom {
+	transform: translate(6em, 20px);
+}
+/*блок курса HTML*/
+/*блок курса CSS*/
+.css_block {
+    background: #70d45e;
+    width: 30em;
+    height: 30em;
+    border-radius: 20px;
+    transform: translate(43.5em, -20em);
+}
+.css_block_header {
+transform: translate(140px, 2em);
+    color: white;
+    font-size: 80px;
+    font-family: 'Comfortaa', cursive;
+}
+.css_block_content {
+    transform: translate(15px, 8em);
+    width: 15em;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+.css_content_bottom {
+    transform: translate(0em, 13.7em);
+    color: white;
+    font-size: 24px;
+    font-family: 'Comfortaa', cursive;
+    width: 20em;
+    height: 3em;
+    background: #70d45e;
+    border-radius: 50px;
+}
+.css_bottom {
+	transform: translate(6em, 20px);
+}
+/*блок курса CSS*/
+/*блок курса JS*/
+.js_block {
+    background: #70d45e;
+    width: 30em;
+    height: 30em;
+    border-radius: 20px;
+    transform: translate(2.5em, -7em);
+}
+.js_block_header {
+    transform: translate(175px, 2em);
+    color: white;
+    font-size: 80px;
+    font-family: 'Comfortaa', cursive;
+}
+.js_block_content {
+    transform: translate(15px, 8em);
+    width: 15em;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+.js_content_bottom {
+    transform: translate(0em, 13.7em);
+    color: white;
+    font-size: 24px;
+    font-family: 'Comfortaa', cursive;
+    width: 20em;
+    height: 3em;
+    background: #70d45e;
+    border-radius: 50px;
+}
+.js_bottom {
+	transform: translate(6em, 20px);
+}
+/*блок курса JS*/
+/*блок курса C#*/
+.Csharp_block {
+    background: #70d45e;
+    width: 30em;
+    height: 30em;
+    border-radius: 20px;
+    transform: translate(43.5em, -37em);
+}
+.Csharp_block_header {
+    transform: translate(170px, 2em);
+    color: white;
+    font-size: 80px;
+    font-family: 'Comfortaa', cursive;
+}
+.Csharp_block_content {
+    transform: translate(15px, 8em);
+    width: 15em;
+    color: white;
+    font-size: 30px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+.Csharp_content_bottom {
+    transform: translate(0em, 12.3em);
+    color: white;
+    font-size: 24px;
+    font-family: 'Comfortaa', cursive;
+    width: 20em;
+    height: 3em;
+    background: #70d45e;
+    border-radius: 50px;
+}
+.Csharp_bottom {
+	transform: translate(6em, 20px);
+}
+/*блок курса C#*/
